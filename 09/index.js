@@ -9,7 +9,7 @@ SomaAngulo1 = 180* (6-2)
 console.log(`A soma de todos os angulos é ${SomaAngulo1}`)
 
 
-Angulo = 720/6
+Angulo = SomaAngulo/NumerodeLados
 
 console.log(`O valor de cada angulo do polígono é ${Angulo}`);
 
